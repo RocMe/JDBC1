@@ -99,7 +99,11 @@ public class DownLoadServlet extends HttpServlet {
         if(!file.exists()){
             //创建目录
             file.mkdirs();
+            //new version
         }
+
+
+
         return dir;
     }
 
