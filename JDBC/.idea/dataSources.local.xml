@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="TestH4" uuid="637353b2-f7ca-47ed-bc92-0301dfafef3a">
+      <database-info product="DM DBMS" version="7.1.6.48" jdbc-version="4.0" driver-name="dm.jdbc.driver.DmDriver" driver-version="4.0.7.1.6.48 (Build 2018.03.01)">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>SYSDBA</user-name>
+      <introspection-schemas>:SYSDBA</introspection-schemas>
+    </data-source>
+  </component>
+</project>

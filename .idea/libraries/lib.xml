@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/javassist-3.20.0-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/freemarker-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/struts2-core-2.5.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/commons-lang3-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/ognl-3.1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/log4j-api-2.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/commons-fileupload-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/target/JDBC/WEB-INF/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
